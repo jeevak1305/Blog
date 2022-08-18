@@ -523,4 +523,19 @@ form button{
     border-radius: 30px;
 }
 
+.bruh {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
+  iframe{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+
+      }
+  
